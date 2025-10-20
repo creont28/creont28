@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, Welcome! 👋
 
-<!--
-**creont28/creont28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello! My name is **Creon Perry Talisic**. I am from Laguna State Polytechnic University currently taking BS Computer Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a huge interest in coding as well as making a website too.
+
+Currently studying⚛️ Java, MySQL, an UI and UX.
+
+- 🔭 I’m currently working on this page
+- 🌱 I’m currently learning JavaFX
+- 📫 How to reach me: Creon Perry Talisic (Facebook)
+
