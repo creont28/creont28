@@ -5,9 +5,8 @@ Hello! My name is **Creon Perry Talisic**. I am from Laguna State Polytechnic Un
 
 I have a huge interest in coding as well as making a website too.
 
-Currently studying⚛️ Java, MySQL, an UI and UX.
+Currently studying⚛️ Python and UI and UX.
 
-- 🔭 I’m currently working on this page
-- 🌱 I’m currently learning JavaFX
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: Creon Perry Talisic (Facebook)
 
